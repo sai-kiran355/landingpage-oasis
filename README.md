@@ -6,7 +6,7 @@ A fully responsive landing page for an e-commerce website, built using HTML and 
 
 ## 📸 Screenshots
 
-![Landing Page Preview](images/Landing%20Page%20Preview.png)
+![Landing Page Preview](Landing%20Page%20Preview.png)
 
 ---
 
